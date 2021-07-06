@@ -1,6 +1,4 @@
 # Mathematics
-
-
 ## Numbers
 
 * Set of natural numbers, N<sub>0</sub> = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9,... }
@@ -59,13 +57,14 @@ ___
 * ![Rational Numbers](https://i.imgur.com/kQzJxzk.png)
 * Infinite rational numbers between any two numbers.
 * All integers are rational
-* Not all numbers are rational. For example, $\sqrt{2}$. Hence a larger set called Real Numbers exists.
+* Not all numbers are rational. For example, square root of 2. Hence a larger set called Real Numbers exists.
 * ![Real Line](https://image01.ipracticemath.com/content/imageslm/realnumber/real-number-system.png)
 
 * ### Quick Notes:
   * Natural Numbers, N = {0, 1, 2, 3, ,4, 5, ...}
   * Integers, Z = {..., -3, -2, -1, 0, 1, 2, 3, ...}
   * Rational Numbers, Q = {..., -3, ..., -2$\frac{2}{3}$, ..., -1$\frac{2}{3}$, -1$\frac{1}{3}$...,  0, ..., $\frac{1}{2}$, ..., $\frac{4}{5}$, ..., 1, ... }
-  * Real numbers, R
+  * Real numbers, R includes all rational numbers and irrational numbers.
   * Arithmetic Operations: +, -, x, ÷, m<sup>n</sup>, %, |
+  * Odd number of negative integers multiply inot a negative integer and even number of negative integers multiply into a positive integer.
   
